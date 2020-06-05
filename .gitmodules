@@ -1,0 +1,3 @@
+[submodule "Plugins/WebCameraFeed"]
+	path = Plugins/WebCameraFeed
+	url = https://github.com/bsubbaraman/WebCameraFeed.git
