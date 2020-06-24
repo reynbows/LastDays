@@ -1,3 +1,9 @@
 [submodule "Plugins/WebCameraFeed"]
 	path = Plugins/WebCameraFeed
 	url = https://github.com/bsubbaraman/WebCameraFeed.git
+[submodule "Plugins/2DVideoCore"]
+	path = Plugins/2DVideoCore
+	url = https://github.com/bsubbaraman/2DVideoCore
+[submodule "Plugins/DDTools"]
+	path = Plugins/DDTools
+	url = https://github.com/remap/DDTools
