@@ -4,3 +4,6 @@
 [submodule "Plugins/DDTools"]
 	path = Plugins/DDTools
 	url = https://github.com/remap/DDTools
+[submodule "Plugins/VideoCore"]
+	path = Plugins/VideoCore
+	url = https://github.com/bsubbaraman/VideoCore
