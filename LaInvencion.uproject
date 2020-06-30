@@ -9,5 +9,15 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "DDTools",
+			"Enabled": true
+		},
+		{
+			"Name": "VideoCore",
+			"Enabled": true
+		}
 	]
 }
