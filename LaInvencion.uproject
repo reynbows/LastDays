@@ -18,6 +18,14 @@
 		{
 			"Name": "VideoCore",
 			"Enabled": true
+		},
+		{
+			"Name": "PlaybackCtrl",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorTools",
+			"Enabled": true
 		}
 	]
 }
