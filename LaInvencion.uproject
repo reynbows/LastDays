@@ -30,6 +30,10 @@
 		{
 			"Name": "SequencerScripting",
 			"Enabled": true
+		},
+		{
+			"Name": "LaSound",
+			"Enabled": true
 		}
 	]
 }
