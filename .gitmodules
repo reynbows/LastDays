@@ -7,3 +7,6 @@
 [submodule "Plugins/VideoCore"]
 	path = Plugins/VideoCore
 	url = https://github.com/bsubbaraman/VideoCore
+[submodule "Plugins/LaSound"]
+	path = Plugins/LaSound
+	url = https://github.com/wzq94qzw/LaSound.git

@@ -20,11 +20,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PlaybackCtrl",
+			"Name": "EditorScriptingUtilities",
 			"Enabled": true
 		},
 		{
-			"Name": "EditorTools",
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "LaSound",
 			"Enabled": true
 		}
 	]
