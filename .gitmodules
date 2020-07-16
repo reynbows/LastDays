@@ -10,3 +10,12 @@
 [submodule "Plugins/LaSound"]
 	path = Plugins/LaSound
 	url = https://github.com/wzq94qzw/LaSound.git
+[submodule "Plugins/UE4_EditorTools"]
+        path = Plugins/UE4_EditorTools
+        url = https://github.com/daricalouie/UE4_EditorTools
+[submodule "Plugins/PlaybackCtrl"]
+        path = Plugins/PlaybackCtrl
+        url = https://github.com/bsubbaraman/PlaybackCtrl
+[submodule "Plugins/UE4-OSC"]
+        path = Plugins/UE4-OSC
+        url = https://github.com/bsubbaraman/UE4-OSC
