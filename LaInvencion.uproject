@@ -32,10 +32,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "LaSound",
-			"Enabled": true
-		},
-		{
 			"Name": "PlaybackCtrl",
 			"Enabled": true
 		},
