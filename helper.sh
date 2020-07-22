@@ -51,6 +51,8 @@ function cleanup()
     goToRepo
     find . -name 'Intermediate' -exec rm -Rf {} \;
     "/Users/Shared/Epic Games/UE_4.23/Engine/Build/BatchFiles/Mac/GenerateProjectFiles.sh" `pwd`/LaInvencion.uproject
+    git submodule init
+    git submodule update --recursive
     xcodebuild -workspace LaInvencion.xcworkspace -scheme LaInvencion
     if [ $? -eq 0 ]; then
         showPopup "Cleaned up!"
