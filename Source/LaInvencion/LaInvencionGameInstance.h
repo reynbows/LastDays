@@ -6,7 +6,7 @@
 #include "Engine/GameInstance.h"
 #include "LaInvencionGameInstance.generated.h"
 
-UENUM()
+UENUM(BlueprintType)
 enum ConnectionStatus
 {
   Disconnected  UMETA(DisplayName = "Disconnected"),
