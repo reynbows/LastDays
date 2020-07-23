@@ -38,7 +38,7 @@ ULaInvencionGameInstance::LoadComplete(const float LoadTime, const FString & Map
 {
     DLOG_TRACE("LoadComplete: time {} map name {}",
                LoadTime, TCHAR_TO_ANSI(*MapName));
-    UWorld *world = FDDModuleManager::getSharedInstance()->getLastWorldCreated();
+    UWorld *world = GetWorld();
     
     // check if we really connected
     if (world)
