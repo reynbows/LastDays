@@ -3,3 +3,4 @@ Content/Movies/TheRocks_Faustine_Sitting.mp4 filter=lfs diff=lfs merge=lfs -text
 Content/Movies/TheRocks_Faustine_Sit2.mp4 filter=lfs diff=lfs merge=lfs -text
 Content/Movies/TheRocks_Faustine_Walk2.mp4 filter=lfs diff=lfs merge=lfs -text
 Content/Movies/TheRocks_Faustine_Look.mp4 filter=lfs diff=lfs merge=lfs -text
+Content/Movies/TheRocks_Faustine_Walking.mp4 filter=lfs diff=lfs merge=lfs -text
