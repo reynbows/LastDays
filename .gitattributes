@@ -6,3 +6,4 @@ Content/Movies/TheRocks_Faustine_Look.mp4 filter=lfs diff=lfs merge=lfs -text
 Content/Movies/TheRocks_Faustine_Walking.mp4 filter=lfs diff=lfs merge=lfs -text
 .mp4 filter=lfs diff=lfs merge=lfs -text
 Content/Movies/Invention_*.mp4 filter=lfs diff=lfs merge=lfs -text
+Content/Movies/*.mp4 filter=lfs diff=lfs merge=lfs -text
